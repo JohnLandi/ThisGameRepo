@@ -1,0 +1,8 @@
+this is the example of game files.
+
+since you are using unity you want to disable .temp files
+
+exclude them.
+
+you also want to exclude the library folder.
+
